@@ -132,5 +132,3 @@ DELETE FROM tabela WHERE condição;
 - **UPDATE**: Atualiza valores de colunas em linhas específicas (com WHERE).
 - **DELETE**: Remove linhas da tabela com base em um critério (WHERE).
 
-Se precisar, posso colocar mais exemplos com `JOIN`, `ORDER BY`, `GROUP BY`, etc.
-
