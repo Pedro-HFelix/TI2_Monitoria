@@ -14,4 +14,4 @@ Aqui você encontrará exemplos de comandos SQL com boas práticas de uso, instr
 
 ---
 
-Se precisar, entre em contato por favor.
+Se precisar de ajuda ou alguma sugestão, entre em contato por favor ou crie uma issue.
